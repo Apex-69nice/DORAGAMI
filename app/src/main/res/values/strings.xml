@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WarmLight</string>
+    <string name="subtitle">A warm, paper-like screen tint — on demand.</string>
+    <string name="warm_overlay">Warm overlay</string>
+    <string name="warmth_value">Warmth: %d%%</string>
+    <string name="preview_label">Preview</string>
+    <string name="notification_title">Warm night light is on</string>
+    <string name="notification_text">Tap to open · adjust warmth in the app</string>
+    <string name="turn_off">Turn off</string>
+</resources>
